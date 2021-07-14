@@ -1,6 +1,3 @@
-# Welcome-To-Purepon
-
-
 # What is Purepon ?
 
 Purepon has been providing enterprise solutions to businesses since 2020.
